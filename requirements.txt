@@ -2,5 +2,5 @@ jieba
 pyhanlp
 phone
 phonenumbers
-regex
+regex==2019.4.14
 arrow
